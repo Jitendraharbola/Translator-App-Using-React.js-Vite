@@ -2,7 +2,7 @@
   "name": "translator-app",
   "version": "0.0.0",
   "private": true,
-"homepage": "https://jitendraharbola.github.io/Translator-App-Using-React.js",
+  "homepage": "https://Jitendraharbola.github.io/Translator-App-Using-React.js-Vite",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
